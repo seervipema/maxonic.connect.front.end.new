@@ -1,0 +1,80 @@
+.forTitle{
+    padding: 1%;
+    text-align: left;
+    color:black;
+    font-weight: 600;
+    font-size: 1.7rem;
+    padding-bottom: 3px;
+}
+.forContainer{
+    border: 2px solid darkgray;
+    border-radius: 6px;
+    padding-left: 5%;
+}
+.forDescription{
+    color:black;
+    padding: 1%;
+    text-align: left;
+    font-weight: 600;
+    font-size: 1.7rem;
+    padding-top: 0px;
+    padding-bottom: 3px;
+}
+ .login_button{
+      border-radius: 4px;
+        background:  #fff;
+        display: inline-block;
+        font: 500 14px/16px "Roboto",sans-serif;
+        letter-spacing: .15px;
+        max-width: 100%;
+        padding: 4px 16px;
+        text-align: center;
+        white-space: nowrap;
+        /* width: 100%; */
+        box-sizing: border-box;
+        cursor: pointer;
+        transition: background-color .15s linear;
+        color: #1e88e5;
+        /* margin-left: 40%; */
+        /* margin-top: 6%; */
+        font-weight: 600;
+        
+        border: 1px solid #555555;
+        /* margin-left: auto; */
+        
+    }
+    .fa-user{
+      margin-right: 4%;
+    }
+    .navbar-toggle{
+      background-color: #57a6dc;
+      border-color: #5aa8dd;
+    }
+    .signup-button:hover{
+       border-radius: 4px;
+        background:  #fff;
+        display: inline-block;
+        font: 500 14px/16px "Roboto",sans-serif;
+        letter-spacing: .15px;
+        max-width: 100%;
+        padding: 8px 16px;
+        text-align: center;
+        white-space: nowrap;
+        /* width: 100%; */
+        box-sizing: border-box;
+        cursor: pointer;
+        transition: background-color .15s linear;
+        color: #1e88e5;
+        /* margin-left: 40%; */
+        /* margin-top: 6%; */
+        font-weight: 600;
+        
+        border: 1px solid #555555;
+        /* margin-left: auto; */
+        /* margin-top: 0.6em;
+        margin-right: 0.6em; */
+    }
+    .forHeaderRow{
+      display: flex;
+      justify-content: flex-end;
+  }
